@@ -67,7 +67,7 @@ Iam Currently learning Flutter🤞😇
 </div>
 <div> 
   <p align="center">
-    <a href="#"><img title="Snake animation" src="./img/snake.svg">
+    <a href="#"><img title="Snake animation" src="snake.svg">
     </a>
   </p>
 </div>
