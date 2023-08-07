@@ -13,9 +13,4 @@ Iam Currently learning Flutter🤞😇
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanseer02&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
   </a>
 </div> 
-<div> 
-  <p align="center">
-    <a href="[https://www.linkedin.com/in/jeffersonrpm/](https://www.linkedin.com/in/muhammad-thanseer-2bb258274/)"><img height="35" width="140" title="linkedin.com/in/jeffersonrpm" src="./img/linkedin.png">
-    </a>
-  </p>
-</div>
+
