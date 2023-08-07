@@ -70,3 +70,9 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanseer02" alt="thanseer02" /></a>
 </p>
 
+
+<p align="left">
+<a href="[https://linkedin.com/in/andrej-marinchenko-0445b7214](https://www.linkedin.com/in/muhammad-thanseer-2bb258274/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="mailto:thanzeetnz83@gmail.com.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://api.whatsapp.com/send?phone=+919947977759" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+</p>
