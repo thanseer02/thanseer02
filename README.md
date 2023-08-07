@@ -64,3 +64,9 @@
     </a>
   </p>
 </div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thanseer02"></img>
+<!--   profile-green-animate -->
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanseer02" alt="thanseer02" /></a>
+</p>
+
