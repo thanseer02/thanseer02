@@ -8,29 +8,35 @@
 </div> 
 <div style="display: inline_block">
   <p align="center">
-       <a href="#">
-      <img align="center" alt="Logo do HTML5" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <a href="#">
+      <img align="center" alt="Logo do CSS3" height="30" width="40" title="CSS3" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
     </a>
     <a href="#">
-      <img align="center" alt="Logo do CSS3" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
     </a>
     <a href="#">
-      <img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+      <img align="center" alt="Logo do Python" height="30" width="40" title="Python" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
     </a>
     <a href="#">
-      <img align="center" alt="Logo do Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img align="center" alt="Logo do PHP" height="30" width="40" title="PHP" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
     </a>
     <a href="#">
-      <img align="center" alt="Logo do C++" height="30" width="40" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+      <img align="center" alt="Logo do git" height="30" width="40" title="PHP" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
     </a>
     <a href="#">
-      <img align="center" alt="Logo do C" height="30" width="40" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+      <img align="center" alt="Logo do flutter" height="30" width="30" title="flutter" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"> 
     </a>
     <a href="#">
-      <img align="center" alt="Logo do PHP" height="30" width="40" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+      <img align="center" alt="Logo do dart" height="30" width="30" title="dart" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"> 
     </a>
     <a href="#">
-      <img align="center" alt="Logo do MySQL" height="30" width="30" title="MySQL" src="https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-ojswpayr.png"> 
+      <img align="center" alt="Logo do figma" height="30" width="30" title="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"> 
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do bitbucket" height="30" width="30" title="bitbucket" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg"> 
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do firebase" height="30" width="30" title="firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"> 
     </a>
 
   </p>
